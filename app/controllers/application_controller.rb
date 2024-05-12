@@ -22,11 +22,11 @@ class ApplicationController < ActionController::API
                 # puts json_string.class
                 json_cities = JSON.parse(json_string)
                 #Parte de búsqueda de clima por ciudad para los 7 días de la semana
-                for ciudad in json_cities
+                # for ciudad in json_cities
                     
-                    response_wheather = RestClient.get 'https://api.openweathermap.org/data/2.5/onecall', {params: {lat: ciudad["latitud"], lon: ciudad["longitud"], exclude: "current,minutely,hourly,alerts", lang:"sp", units:"metric", appid:"a5a47c18197737e8eeca634cd6acb581" }}
-                end
-                render json: { ciudades: json_object}
+                #     response_wheather = RestClient.get 'https://api.openweathermap.org/data/2.5/onecall', {params: {lat: ciudad["latitud"], lon: ciudad["longitud"], exclude: "current,minutely,hourly,alerts", lang:"sp", units:"metric", appid:"a5a47c18197737e8eeca634cd6acb581" }}
+                # end
+                render json: { ciudades: json_cities}
             else
                 render json: {Error: "No hay ciudades"}
             end

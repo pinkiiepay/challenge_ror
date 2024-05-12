@@ -25,8 +25,7 @@ class ApplicationController < ActionController::API
                 for ciudad in json_cities
                     
                     response_wheather = RestClient.get 'https://api.openweathermap.org/data/2.5/onecall', {params: {lat: ciudad["latitud"], lon: ciudad["longitud"], exclude: "current,minutely,hourly,alerts", lang:"sp", units:"metric", appid:"a5a47c18197737e8eeca634cd6acb581" }}
-
-
+                end
                 render json: { ciudades: json_object}
             else
                 render json: {Error: "No hay ciudades"}

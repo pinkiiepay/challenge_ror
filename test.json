@@ -1,0 +1,565 @@
+{
+    "ciudades": [
+        {
+            "ciudad": "Chila",
+            "latitud": "17.9675894",
+            "estado": "Puebla",
+            "longitud": "-97.8647998",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "18.1°",
+                    "temperatura_maxima": "19.38°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "17.94°",
+                    "temperatura_maxima": "17.94°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "17.1°",
+                    "temperatura_maxima": "17.1°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "18.09°",
+                    "temperatura_maxima": "18.09°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "18.04°",
+                    "temperatura_maxima": "18.04°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chihuahua",
+            "latitud": "28.6329957",
+            "estado": "Chihuahua",
+            "longitud": "-106.0691004",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "17.18°",
+                    "temperatura_maxima": "18.73°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "19.82°",
+                    "temperatura_maxima": "19.82°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "18.81°",
+                    "temperatura_maxima": "18.81°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "16.19°",
+                    "temperatura_maxima": "16.19°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "19.77°",
+                    "temperatura_maxima": "19.77°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chilapa",
+            "latitud": "22.0319444",
+            "estado": "Nayarit",
+            "longitud": "-105.2313888",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "19.03°",
+                    "temperatura_maxima": "19.86°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "19.82°",
+                    "temperatura_maxima": "19.82°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "20.7°",
+                    "temperatura_maxima": "20.7°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "19.63°",
+                    "temperatura_maxima": "19.63°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "18.8°",
+                    "temperatura_maxima": "18.8°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chilpancingo",
+            "latitud": "17.5515346",
+            "estado": "Guerrero",
+            "longitud": "-99.5006322",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "18.6°",
+                    "temperatura_maxima": "19.02°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "19.19°",
+                    "temperatura_maxima": "19.19°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "18.16°",
+                    "temperatura_maxima": "18.16°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "19.26°",
+                    "temperatura_maxima": "19.26°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "18.41°",
+                    "temperatura_maxima": "18.41°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Tuxtla Gutiérrez",
+            "latitud": "16.7516009",
+            "estado": "Chiapas",
+            "longitud": "-93.1029939",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "23.06°",
+                    "temperatura_maxima": "23.74°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "24.3°",
+                    "temperatura_maxima": "24.3°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "23.03°",
+                    "temperatura_maxima": "23.03°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "23.16°",
+                    "temperatura_maxima": "23.16°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "24.06°",
+                    "temperatura_maxima": "24.06°"
+                }
+            ]
+        },
+        {
+            "ciudad": "China",
+            "latitud": "25.7053189",
+            "estado": "Nuevo León",
+            "longitud": "-99.2377842",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "26.14°",
+                    "temperatura_maxima": "27.65°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "25.14°",
+                    "temperatura_maxima": "25.14°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "26.06°",
+                    "temperatura_maxima": "26.06°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "26.9°",
+                    "temperatura_maxima": "26.9°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "28.37°",
+                    "temperatura_maxima": "28.37°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chico",
+            "latitud": "39.7284944",
+            "estado": "California",
+            "longitud": "-121.8374777",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "15.53°",
+                    "temperatura_maxima": "17.96°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "17.26°",
+                    "temperatura_maxima": "17.26°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "16.76°",
+                    "temperatura_maxima": "16.76°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "14.43°",
+                    "temperatura_maxima": "14.43°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "16.01°",
+                    "temperatura_maxima": "16.01°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Childress",
+            "latitud": "34.4264529",
+            "estado": "Texas",
+            "longitud": "-100.2040019",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "15.62°",
+                    "temperatura_maxima": "16.46°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "19.25°",
+                    "temperatura_maxima": "19.25°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "17.84°",
+                    "temperatura_maxima": "17.84°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "17.13°",
+                    "temperatura_maxima": "17.13°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "19.06°",
+                    "temperatura_maxima": "19.06°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chilicapa",
+            "latitud": "20.0910963",
+            "estado": "Hidalgo",
+            "longitud": "-98.7623874",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "17.34°",
+                    "temperatura_maxima": "17.75°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "16.51°",
+                    "temperatura_maxima": "16.51°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "16.79°",
+                    "temperatura_maxima": "16.79°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "17.44°",
+                    "temperatura_maxima": "17.44°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "16.8°",
+                    "temperatura_maxima": "16.8°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chilchotla",
+            "latitud": "19.2536922",
+            "estado": "Puebla",
+            "longitud": "-97.1835409",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "16.35°",
+                    "temperatura_maxima": "16.86°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "14.4°",
+                    "temperatura_maxima": "14.4°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "15.42°",
+                    "temperatura_maxima": "15.42°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "16°",
+                    "temperatura_maxima": "16°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "17.03°",
+                    "temperatura_maxima": "17.03°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chilchotla",
+            "latitud": "18.2332161",
+            "estado": "Oaxaca",
+            "longitud": "-96.829651",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "25.31°",
+                    "temperatura_maxima": "25.82°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "21.78°",
+                    "temperatura_maxima": "21.78°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "23.17°",
+                    "temperatura_maxima": "23.17°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "24.38°",
+                    "temperatura_maxima": "24.38°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "24.66°",
+                    "temperatura_maxima": "24.66°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chicago",
+            "latitud": "41.8781136",
+            "estado": "Illinois",
+            "longitud": "-87.6297982",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "10.43°",
+                    "temperatura_maxima": "12.09°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "10.41°",
+                    "temperatura_maxima": "10.41°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "12.36°",
+                    "temperatura_maxima": "12.36°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "15.09°",
+                    "temperatura_maxima": "15.09°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "13.05°",
+                    "temperatura_maxima": "13.05°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chignik",
+            "latitud": "56.2952778",
+            "estado": "Alaska",
+            "longitud": "-158.4022222",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "-0.07°",
+                    "temperatura_maxima": "1.2°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "2.57°",
+                    "temperatura_maxima": "2.57°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "4.46°",
+                    "temperatura_maxima": "4.46°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "1.45°",
+                    "temperatura_maxima": "1.45°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "3.81°",
+                    "temperatura_maxima": "3.81°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chisana",
+            "latitud": "62.0666742",
+            "estado": "Alaska",
+            "longitud": "-142.042194",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "0.8°",
+                    "temperatura_maxima": "1.09°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "1.53°",
+                    "temperatura_maxima": "1.53°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "2.67°",
+                    "temperatura_maxima": "2.67°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "3.25°",
+                    "temperatura_maxima": "3.25°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "3°",
+                    "temperatura_maxima": "3°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Chitina",
+            "latitud": "61.5158334",
+            "estado": "Alaska",
+            "longitud": "-144.4369443",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "6.63°",
+                    "temperatura_maxima": "7.13°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "5.89°",
+                    "temperatura_maxima": "5.89°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "5.59°",
+                    "temperatura_maxima": "5.59°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "5.25°",
+                    "temperatura_maxima": "5.25°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "5.69°",
+                    "temperatura_maxima": "5.69°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Childersburg",
+            "latitud": "33.2781686",
+            "estado": "Alabama",
+            "longitud": "-86.3549774",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "18.57°",
+                    "temperatura_maxima": "18.63°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "16.83°",
+                    "temperatura_maxima": "16.83°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "16.89°",
+                    "temperatura_maxima": "16.89°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "19.81°",
+                    "temperatura_maxima": "19.81°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "18.79°",
+                    "temperatura_maxima": "18.79°"
+                }
+            ]
+        },
+        {
+            "ciudad": "chilmacoyotl",
+            "latitud": "19.2752682",
+            "estado": "Distrito Federal",
+            "longitud": "-99.1675882",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "17.17°",
+                    "temperatura_maxima": "18.56°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "17.66°",
+                    "temperatura_maxima": "17.66°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "16.53°",
+                    "temperatura_maxima": "16.53°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "18.42°",
+                    "temperatura_maxima": "18.42°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "18.1°",
+                    "temperatura_maxima": "18.1°"
+                }
+            ]
+        }
+    ]
+}

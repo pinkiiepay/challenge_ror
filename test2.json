@@ -1,0 +1,598 @@
+{
+    "ciudades": [
+        {
+            "ciudad": "Monterrey",
+            "latitud": "25.6866142",
+            "estado": "Nuevo León",
+            "longitud": "-100.3161126",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "24.02°",
+                    "temperatura_maxima": "24.64°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "22.61°",
+                    "temperatura_maxima": "22.61°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "25.1°",
+                    "temperatura_maxima": "25.1°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "28.12°",
+                    "temperatura_maxima": "28.12°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "27.29°",
+                    "temperatura_maxima": "27.29°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monteon",
+            "latitud": "20.9864207",
+            "estado": "Nayarit",
+            "longitud": "-105.2984842",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "21.09°",
+                    "temperatura_maxima": "21.54°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "21.81°",
+                    "temperatura_maxima": "21.81°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "23.24°",
+                    "temperatura_maxima": "23.24°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "22.35°",
+                    "temperatura_maxima": "22.35°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "21.61°",
+                    "temperatura_maxima": "21.61°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Morelia",
+            "latitud": "19.7059504",
+            "estado": "Michoacán",
+            "longitud": "-101.1949825",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "14.75°",
+                    "temperatura_maxima": "16.01°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "16.2°",
+                    "temperatura_maxima": "16.2°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "14.44°",
+                    "temperatura_maxima": "14.44°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "14.89°",
+                    "temperatura_maxima": "14.89°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "14.78°",
+                    "temperatura_maxima": "14.78°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monroe",
+            "latitud": "33.7948364",
+            "estado": "Georgia",
+            "longitud": "-83.713229",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "16.17°",
+                    "temperatura_maxima": "16.34°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "17.65°",
+                    "temperatura_maxima": "17.65°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "17.01°",
+                    "temperatura_maxima": "17.01°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "19.45°",
+                    "temperatura_maxima": "19.45°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "18.28°",
+                    "temperatura_maxima": "18.28°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monroe",
+            "latitud": "41.5208256",
+            "estado": "Iowa",
+            "longitud": "-93.1038129",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "13.04°",
+                    "temperatura_maxima": "13.88°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "9.71°",
+                    "temperatura_maxima": "9.71°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "14.4°",
+                    "temperatura_maxima": "14.4°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "14.31°",
+                    "temperatura_maxima": "14.31°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "15.55°",
+                    "temperatura_maxima": "15.55°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monroe",
+            "latitud": "32.5093109",
+            "estado": "Louisiana",
+            "longitud": "-92.1193012",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "17.95°",
+                    "temperatura_maxima": "18.63°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "16.41°",
+                    "temperatura_maxima": "16.41°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "19.42°",
+                    "temperatura_maxima": "19.42°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "18.85°",
+                    "temperatura_maxima": "18.85°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "19.63°",
+                    "temperatura_maxima": "19.63°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monroe",
+            "latitud": "34.9854275",
+            "estado": "North Carolina",
+            "longitud": "-80.5495112",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "16.89°",
+                    "temperatura_maxima": "16.97°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "17.94°",
+                    "temperatura_maxima": "17.94°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "16.65°",
+                    "temperatura_maxima": "16.65°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "19.16°",
+                    "temperatura_maxima": "19.16°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "19.63°",
+                    "temperatura_maxima": "19.63°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monroe",
+            "latitud": "41.3306493",
+            "estado": "New York",
+            "longitud": "-74.1868135",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "12.17°",
+                    "temperatura_maxima": "12.93°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "13.71°",
+                    "temperatura_maxima": "13.71°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "14.84°",
+                    "temperatura_maxima": "14.84°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "14.04°",
+                    "temperatura_maxima": "14.04°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "12.75°",
+                    "temperatura_maxima": "12.75°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monroe",
+            "latitud": "47.8553772",
+            "estado": "Washington",
+            "longitud": "-121.970958",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "6.71°",
+                    "temperatura_maxima": "8°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "7.38°",
+                    "temperatura_maxima": "7.38°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "9.09°",
+                    "temperatura_maxima": "9.09°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "7.54°",
+                    "temperatura_maxima": "7.54°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "7.69°",
+                    "temperatura_maxima": "7.69°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monetta",
+            "latitud": "33.84973",
+            "estado": "South Carolina",
+            "longitud": "-81.609602",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "17.1°",
+                    "temperatura_maxima": "17.19°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "17.66°",
+                    "temperatura_maxima": "17.66°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "17.44°",
+                    "temperatura_maxima": "17.44°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "20.42°",
+                    "temperatura_maxima": "20.42°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "20.92°",
+                    "temperatura_maxima": "20.92°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Moroleón",
+            "latitud": "20.1264558",
+            "estado": "Guanajuato",
+            "longitud": "-101.1933423",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "16.33°",
+                    "temperatura_maxima": "17.28°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "16.53°",
+                    "temperatura_maxima": "16.53°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "15.89°",
+                    "temperatura_maxima": "15.89°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "16.16°",
+                    "temperatura_maxima": "16.16°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "16.06°",
+                    "temperatura_maxima": "16.06°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monclova",
+            "latitud": "26.9080378",
+            "estado": "Coahuila",
+            "longitud": "-101.4215236",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "21.19°",
+                    "temperatura_maxima": "23.15°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "22.69°",
+                    "temperatura_maxima": "22.69°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "24.12°",
+                    "temperatura_maxima": "24.12°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "27.09°",
+                    "temperatura_maxima": "27.09°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "24.23°",
+                    "temperatura_maxima": "24.23°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monterey",
+            "latitud": "36.6002378",
+            "estado": "California",
+            "longitud": "-121.8946761",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "11.2°",
+                    "temperatura_maxima": "11.27°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "11.37°",
+                    "temperatura_maxima": "11.37°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "11.99°",
+                    "temperatura_maxima": "11.99°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "11.55°",
+                    "temperatura_maxima": "11.55°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "11.38°",
+                    "temperatura_maxima": "11.38°"
+                }
+            ]
+        },
+        {
+            "ciudad": "El Monte",
+            "latitud": "34.0686206",
+            "estado": "California",
+            "longitud": "-118.0275667",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "15.17°",
+                    "temperatura_maxima": "15.23°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "15.04°",
+                    "temperatura_maxima": "15.04°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "15.14°",
+                    "temperatura_maxima": "15.14°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "16.13°",
+                    "temperatura_maxima": "16.13°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "15.5°",
+                    "temperatura_maxima": "15.5°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Mccammon",
+            "latitud": "42.6504719",
+            "estado": "Idaho",
+            "longitud": "-112.1930226",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "6.49°",
+                    "temperatura_maxima": "6.74°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "8.32°",
+                    "temperatura_maxima": "8.32°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "8.4°",
+                    "temperatura_maxima": "8.4°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "9.58°",
+                    "temperatura_maxima": "9.58°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "0.94°",
+                    "temperatura_maxima": "0.94°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monmouth",
+            "latitud": "40.9114271",
+            "estado": "Illinois",
+            "longitud": "-90.6473576",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "15.31°",
+                    "temperatura_maxima": "15.6°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "10.82°",
+                    "temperatura_maxima": "10.82°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "15.55°",
+                    "temperatura_maxima": "15.55°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "16.56°",
+                    "temperatura_maxima": "16.56°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "16.96°",
+                    "temperatura_maxima": "16.96°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Monterey",
+            "latitud": "36.1475642",
+            "estado": "Tennessee",
+            "longitud": "-85.2683021",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "15.09°",
+                    "temperatura_maxima": "15.36°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "14.33°",
+                    "temperatura_maxima": "14.33°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "15.27°",
+                    "temperatura_maxima": "15.27°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "17.87°",
+                    "temperatura_maxima": "17.87°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "17.66°",
+                    "temperatura_maxima": "17.66°"
+                }
+            ]
+        },
+        {
+            "ciudad": "Montrose",
+            "latitud": "38.4783198",
+            "estado": "Colorado",
+            "longitud": "-107.8761738",
+            "temperatura": [
+                {
+                    "dia": "2024-05-14",
+                    "temperatura_minima": "10.19°",
+                    "temperatura_maxima": "11.72°"
+                },
+                {
+                    "dia": "2024-05-15",
+                    "temperatura_minima": "8.38°",
+                    "temperatura_maxima": "8.38°"
+                },
+                {
+                    "dia": "2024-05-16",
+                    "temperatura_minima": "8.03°",
+                    "temperatura_maxima": "8.03°"
+                },
+                {
+                    "dia": "2024-05-17",
+                    "temperatura_minima": "10.2°",
+                    "temperatura_maxima": "10.2°"
+                },
+                {
+                    "dia": "2024-05-18",
+                    "temperatura_minima": "14.38°",
+                    "temperatura_maxima": "14.38°"
+                }
+            ]
+        }
+    ]
+}
